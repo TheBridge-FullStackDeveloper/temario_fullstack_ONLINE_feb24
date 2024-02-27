@@ -17,35 +17,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 2](#ramp-up--sprint-2)
   - **JS Avanzado**
     - [Sprint 3](#js-avanzado--sprint-3)
-    - [Sprint 4](#js-avanzado--sprint-4)
-    - [Sprint 5](#js-avanzado--sprint-5)
-    - [Sprint 6](#js-avanzado--sprint-6)
-  - **Back End**
-    - [Sprint 10](#back-end--sprint-10)
-    - [Sprint 11](#back-end--sprint-11)
-    - [Sprint 12](#back-end--sprint-12)
-    - [Sprint 13](#back-end--sprint-13)
-    - [Sprint 14](#back-end--sprint-14)
-    - [Sprint 15](#back-end--sprint-15)
-    - [Sprint 16](#back-end--sprint-16)
 
-- [**Soluciones de entregables**](#entregables-resueltos)
-
-  - **JS Avanzado**
-    - [Sprint 4](#sprint-4)
-    - [Sprint 5](#sprint-5)
-    - [Sprint 6](#sprint-6)
-    - [Sprint 7](#sprint-7)
-  - **Back End**
-    - [Sprint 10](#sprint-10)
-    - [Sprint 11](#sprint-11)
-    - [Sprint 12](#sprint-12)
-    - [Sprint 13](#sprint-13)
-    - [Sprint 14](#sprint-14)
-    - [Sprint 15](#sprint-15)
-    - [Sprint 16](#sprint-16)
-
-## Contenidos
 
 ### Ramp-up | Sprint 1
 
