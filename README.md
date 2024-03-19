@@ -92,3 +92,8 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 - [Page visit](https://github.com/CarlosDiazGirol/pagesvisit-resolve)
 - [Team Challenge Chistes de Chuck Norris](https://github.com/CarlosDiazGirol/chuckListJoke)
 
+### Sprint 6
+
+- [Bomba Game](https://github.com/CarlosDiazGirol/boom-resolve)
+- [Diversión con banderas](https://github.com/CarlosDiazGirol/diversionconbanderas)
+- [Team Challenge Pokédex](https://github.com/CarlosDiazGirol/pokedex)
