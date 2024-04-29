@@ -95,6 +95,13 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 | [Clase 1](BackEnd/clases/sprint11/clase1.md) | Express.js  | [Ejercicios](BackEnd/ejercicios/sprint11/ejerciciosBack1.md) |
 | [Clase 2](BackEnd/clases/sprint11/clase2.md) | Middlewares | [Ejercicios](BackEnd/ejercicios/sprint11/ejerciciosBack1.md) |
 
+### Back-End | Sprint 12
+
+| Teoría                                       | Contenido | Ejercicios |
+| -------------------------------------------- | --------- | ---------- |
+| [Clase 1](BackEnd/clases/sprint12/clase1.md) | API REST  | -          |
+| [Clase 2](BackEnd/clases/sprint12/clase2.md) | Scraping  | -          |
+
 
 ## Entregables resueltos
 
@@ -124,3 +131,9 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 
 - [Node.js Patrón de Diseño Modular](https://github.com/CarlosDiazGirol/node-os-resuelto)
 - [Sevidor HTTP](https://github.com/CarlosDiazGirol/node-http-easy)
+
+### Sprint 11
+
+- [Listado de usuarios por especialidad](https://github.com/CarlosDiazGirol/specialities)
+- [Middlewares](https://github.com/CarlosDiazGirol/express-timepass)
+- [Team Challenge Puzzle](https://github.com/CarlosDiazGirol/loginpassroutes)
