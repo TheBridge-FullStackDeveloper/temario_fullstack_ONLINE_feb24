@@ -23,6 +23,8 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - **Back End**
     - [Sprint 10](#back-end--sprint-10)
     - [Sprint 11](#back-end--sprint-11)
+    - [Sprint 12](#back-end--sprint-12)
+    - [Sprint 13](#back-end--sprint-13)
 
 - [**Soluciones de entregables**](#entregables-resueltos)
 
