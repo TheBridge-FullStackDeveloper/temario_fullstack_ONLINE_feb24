@@ -15,11 +15,13 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
   - **Ramp Up**
     - [Sprint 1](#ramp-up--sprint-1)
     - [Sprint 2](#ramp-up--sprint-2)
+    
   - **JS Avanzado**
     - [Sprint 3](#js-avanzado--sprint-3)
     - [Sprint 4](#js-avanzado--sprint-4)
     - [Sprint 5](#js-avanzado--sprint-5)
     - [Sprint 6](#js-avanzado--sprint-6)
+
     - **Back End**
     - [Sprint 10](#back-end--sprint-10)
     - [Sprint 11](#back-end--sprint-11)
@@ -28,6 +30,9 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 14](#back-end--sprint-14)
     - [Sprint 15](#back-end--sprint-15)
     - [Sprint 16](#back-end--sprint-16)
+
+    - **Front End**
+    - [Sprint 19](#front-end--sprint-19)
 
 
 - [**Soluciones de entregables**](#entregables-resueltos)
@@ -137,6 +142,12 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 | -------------------------------------------- | --------- | ---------- |
 | [Clase 1](BackEnd/clases/sprint16/clase1.md) | Swagger   | -          |
 
+### Front-End | Sprint 19
+
+| Teoría                                        | Contenido | Ejercicios |
+| --------------------------------------------- | --------- | ---------- |
+| [Clase 1](FrontEnd/clases/sprint19/clase1.md) | useState  | -          |
+
 
 ## Entregables resueltos
 
@@ -194,3 +205,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 - [Testing con Jest](https://stackblitz.com/edit/jest-challenge-resuelto?file=README.md)
 - [CRUD de Tasks con mongoose](https://github.com/CarlosDiazGirol/CRUD-resolve-mongoose)
 - [Creación de BD con mongoose y testing](https://github.com/TheBridge-FullStackDeveloper/team-challenge-mongoose-testing-solucion)
+
+### Sprint 16
+
+- [Documentar CRUD de tareas con Swagger](https://github.com/TheBridge-FullStackDeveloper/ejercico-DB-mongoose-swagger-soluci-n)
