@@ -34,6 +34,7 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - **Front End**
     - [Sprint 19](#front-end--sprint-19)
     - [Sprint 20](#front-end--sprint-20)
+    - [Sprint 21](#front-end--sprint-21)
 
 
 - [**Soluciones de entregables**](#entregables-resueltos)
@@ -156,6 +157,13 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 | [Clase 1](FrontEnd/clases/sprint20/clase1.md) | Routing, useEffect    | -          |
 | [Clase 2](FrontEnd/clases/sprint20/clase2.md) | Formularios y estilos | -          |
 
+### Front-End | Sprint 21
+
+| Teoría                                        | Contenido  | Ejercicios |
+| --------------------------------------------- | ---------- | ---------- |
+| [Clase 1](FrontEnd/clases/sprint21/clase1.md) | Props      | -          |
+| [Clase 2](FrontEnd/clases/sprint21/clase2.md) | useContext | -          |
+
 
 ## Entregables resueltos
 
@@ -221,3 +229,9 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 ### Sprint 19
 
 - [useState - Cambio de Nombre del Profesor](https://github.com/TheBridge-FullStackDeveloper/ejercicio-useState-solucion)
+
+### Sprint 20
+
+- [Rutas y useEffect](https://github.com/CarlosDiazGirol/routes-useeffect)
+- [Buscador de Pokémon](https://github.com/CarlosDiazGirol/poke-react)
+- [Team Challenge Criptomonedas](https://github.com/CarlosDiazGirol/react-coin-resuelto)
