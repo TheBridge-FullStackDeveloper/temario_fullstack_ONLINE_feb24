@@ -35,8 +35,8 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
     - [Sprint 19](#front-end--sprint-19)
     - [Sprint 20](#front-end--sprint-20)
     - [Sprint 21](#front-end--sprint-21)
-    - [Sprint 22](#sprint-22)
-
+    - [Sprint 22](#front-end--sprint-22)
+    - [Sprint 23](#front-end--sprint-23)
 
 - [**Soluciones de entregables**](#entregables-resueltos)
 
@@ -172,6 +172,13 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 | [Clase 1](FrontEnd/clases/sprint22/clase1.md) | Custom Hooks | -          |
 | [Clase 2](FrontEnd/clases/sprint22/clase2.md) | Redux        | -          |
 
+### Front-End | Sprint 23
+
+| Teoría                                        | Contenido          | Ejercicios |
+| --------------------------------------------- | ------------------ | ---------- |
+| [Clase 1](FrontEnd/clases/sprint23/clase1.md) | useRef             | -          |
+| [Clase 2](FrontEnd/clases/sprint23/clase2.md) | Unión Front y Back | -          |
+
 
 ## Entregables resueltos
 
@@ -249,3 +256,9 @@ Aprenderás a programar Front-end y Back-end en JavaScript, el lenguaje más uti
 - [Entendiendo las props](https://github.com/CarlosDiazGirol/props)
 - [Uso de useContext](https://github.com/CarlosDiazGirol/usecontextchangecolor)
 - [Team Challenge - Calculadora](https://github.com/CarlosDiazGirol/calculator)
+
+### Sprint 22
+
+- [Custom hooks](https://github.com/CarlosDiazGirol/hooks)
+- [Redux](https://github.com/CarlosDiazGirol/redux-task)
+- [Team Challenge - Buscador de usuarios de GitHub](https://github.com/CarlosDiazGirol/gituser-resuelto)
